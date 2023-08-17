@@ -1,1 +1,1 @@
-![Alt text]([http://url/to/img.png](https://raw.githubusercontent.com/ranakizil/Blender-Donut-Coffee-Cup/main/coffeeanddonut.png)https://raw.githubusercontent.com/ranakizil/Blender-Donut-Coffee-Cup/main/coffeeanddonut.png)
+![donut and coffee cup](https://raw.githubusercontent.com/ranakizil/Blender-Donut-Coffee-Cup/main/coffeeanddonut.png)
